@@ -5,7 +5,7 @@
 
 ---
 
-## Vorbereitung (einmalig vor der Präsentation)
+## Vorbereitung 
 
 ```bash
 minikube start
